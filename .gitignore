@@ -1,0 +1,4 @@
+day3env/
+venv/
+__pycache__/
+.DS_Store
